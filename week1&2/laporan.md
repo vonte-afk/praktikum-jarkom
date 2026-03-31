@@ -1,4 +1,4 @@
-# Laporan Praktikum Jarkom Modul 1 & 2
+# Week 1 & 2
 
 ## Tujuan Praktikum
 Installasi Wireshark & Sniff Website
